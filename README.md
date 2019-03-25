@@ -22,5 +22,7 @@ In covering the course material, a RNA-seq study will be used in which participa
 
 #### Contact Information
 Brooke L. Fridley, PhD
+
 Moffitt Cancer Center
+
 brooke.fridley@moffitt.org
