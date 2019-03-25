@@ -9,6 +9,10 @@ The short course will be taught using hands-on computing exercises, whereby the 
 
 In covering the course material, a RNA-seq study will be used in which participants will apply the skills covered in the lecture materials in the hands-on computing component. A second dataset will be provided to the participants on the last day in which they will apply the statistical concepts and computing with R/RStudio to complete the downstream analysis to determine genes and pathways differentially expressed within a reproducible research framework using R Markdown. 
 
+
+
+
+
 ### Lecture Notes
 
 ### R Code
